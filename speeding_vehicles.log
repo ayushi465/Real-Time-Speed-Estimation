@@ -1,0 +1,369 @@
+2024-06-25 10:34:04.061140 - Vehicle ID: 1, Speed: 1504.79
+2024-06-25 10:34:04.062701 - Vehicle ID: 2, Speed: 1171.54
+2024-06-25 10:34:04.898631 - Vehicle ID: 3, Speed: 1564.61
+2024-06-25 10:34:05.307431 - Vehicle ID: 4, Speed: 1564.61
+2024-06-25 10:34:05.650213 - Vehicle ID: 5, Speed: 1564.61
+2024-06-25 10:34:05.650213 - Vehicle ID: 6, Speed: 1111.62
+2024-06-25 10:34:06.062282 - Vehicle ID: 7, Speed: 1845.67
+2024-06-25 10:34:06.463669 - Vehicle ID: 8, Speed: 465.73
+2024-06-25 10:34:06.914321 - Vehicle ID: 9, Speed: 1567.19
+2024-06-25 10:34:06.915322 - Vehicle ID: 10, Speed: 1320.34
+2024-06-25 10:34:07.300897 - Vehicle ID: 11, Speed: 494.77
+2024-06-25 10:34:07.737064 - Vehicle ID: 12, Speed: 1838.83
+2024-06-25 10:34:07.738090 - Vehicle ID: 13, Speed: 1351.33
+2024-06-25 10:34:08.117822 - Vehicle ID: 14, Speed: 496.59
+2024-06-25 10:34:08.518890 - Vehicle ID: 15, Speed: 1812.21
+2024-06-25 10:34:08.859088 - Vehicle ID: 16, Speed: 1812.21
+2024-06-25 10:34:09.266418 - Vehicle ID: 17, Speed: 1842.01
+2024-06-25 10:34:09.272528 - Vehicle ID: 18, Speed: 1325.44
+2024-06-25 10:34:09.621778 - Vehicle ID: 19, Speed: 474.34
+2024-06-25 10:34:09.980888 - Vehicle ID: 20, Speed: 1845.67
+2024-06-25 10:34:09.981931 - Vehicle ID: 21, Speed: 1382.93
+2024-06-25 10:34:10.294848 - Vehicle ID: 22, Speed: 502.89
+2024-06-25 10:34:10.298799 - Vehicle ID: 23, Speed: 840.54
+2024-06-25 10:34:10.571844 - Vehicle ID: 24, Speed: 512.64
+2024-06-25 10:34:10.572528 - Vehicle ID: 25, Speed: 842.14
+2024-06-25 10:34:10.863526 - Vehicle ID: 26, Speed: 1820.14
+2024-06-25 10:34:11.208734 - Vehicle ID: 27, Speed: 11044.93
+2024-06-25 10:34:11.209008 - Vehicle ID: 28, Speed: 445.98
+2024-06-25 10:34:11.209008 - Vehicle ID: 29, Speed: 782.30
+2024-06-25 10:34:11.515782 - Vehicle ID: 30, Speed: 13657.42
+2024-06-25 10:34:11.517546 - Vehicle ID: 31, Speed: 1355.32
+2024-06-25 10:34:11.805367 - Vehicle ID: 32, Speed: 11073.29
+2024-06-25 10:34:11.805871 - Vehicle ID: 33, Speed: 436.81
+2024-06-25 10:34:11.805871 - Vehicle ID: 34, Speed: 725.60
+2024-06-25 10:34:12.153440 - Vehicle ID: 35, Speed: 13657.42
+2024-06-25 10:34:12.158948 - Vehicle ID: 36, Speed: 1388.13
+2024-06-25 10:34:12.466056 - Vehicle ID: 37, Speed: 11103.28
+2024-06-25 10:34:12.467859 - Vehicle ID: 38, Speed: 436.81
+2024-06-25 10:34:12.467859 - Vehicle ID: 39, Speed: 782.30
+2024-06-25 10:34:12.757835 - Vehicle ID: 40, Speed: 13657.42
+2024-06-25 10:34:12.760268 - Vehicle ID: 41, Speed: 1417.96
+2024-06-25 10:34:13.111088 - Vehicle ID: 42, Speed: 13656.46
+2024-06-25 10:34:13.111489 - Vehicle ID: 43, Speed: 1412.87
+2024-06-25 10:34:13.425918 - Vehicle ID: 44, Speed: 13626.47
+2024-06-25 10:34:13.428449 - Vehicle ID: 45, Speed: 1411.28
+2024-06-25 10:34:13.699231 - Vehicle ID: 46, Speed: 11074.92
+2024-06-25 10:34:13.700260 - Vehicle ID: 47, Speed: 429.53
+2024-06-25 10:34:13.700260 - Vehicle ID: 48, Speed: 3361.21
+2024-06-25 10:34:14.013274 - Vehicle ID: 49, Speed: 13659.52
+2024-06-25 10:34:14.017671 - Vehicle ID: 50, Speed: 1353.00
+2024-06-25 10:34:14.343661 - Vehicle ID: 51, Speed: 8436.46
+2024-06-25 10:34:14.344661 - Vehicle ID: 52, Speed: 494.77
+2024-06-25 10:34:14.695185 - Vehicle ID: 53, Speed: 11823.81
+2024-06-25 10:34:14.695185 - Vehicle ID: 54, Speed: 494.77
+2024-06-25 10:34:14.990617 - Vehicle ID: 55, Speed: 1868.69
+2024-06-25 10:34:14.990617 - Vehicle ID: 56, Speed: 1385.21
+2024-06-25 10:34:15.366606 - Vehicle ID: 57, Speed: 8375.37
+2024-06-25 10:34:15.366606 - Vehicle ID: 58, Speed: 445.98
+2024-06-25 10:34:15.366606 - Vehicle ID: 59, Speed: 3660.49
+2024-06-25 10:34:15.677038 - Vehicle ID: 60, Speed: 445.98
+2024-06-25 10:34:15.677038 - Vehicle ID: 61, Speed: 3631.12
+2024-06-25 10:34:15.950993 - Vehicle ID: 62, Speed: 13628.46
+2024-06-25 10:34:16.289488 - Vehicle ID: 63, Speed: 8405.36
+2024-06-25 10:34:16.290494 - Vehicle ID: 64, Speed: 1637.68
+2024-06-25 10:34:16.588438 - Vehicle ID: 65, Speed: 8345.39
+2024-06-25 10:34:16.589770 - Vehicle ID: 66, Speed: 1600.16
+2024-06-25 10:34:16.589770 - Vehicle ID: 67, Speed: 2701.50
+2024-06-25 10:34:16.888088 - Vehicle ID: 68, Speed: 13656.46
+2024-06-25 10:34:16.889483 - Vehicle ID: 69, Speed: 960.47
+2024-06-25 10:34:17.238974 - Vehicle ID: 70, Speed: 8316.55
+2024-06-25 10:34:17.239980 - Vehicle ID: 71, Speed: 1629.97
+2024-06-25 10:34:17.239980 - Vehicle ID: 72, Speed: 2760.65
+2024-06-25 10:34:17.683558 - Vehicle ID: 73, Speed: 13627.43
+2024-06-25 10:34:17.684562 - Vehicle ID: 74, Speed: 960.47
+2024-06-25 10:34:18.041048 - Vehicle ID: 75, Speed: 8345.39
+2024-06-25 10:34:18.042048 - Vehicle ID: 76, Speed: 2586.27
+2024-06-25 10:34:18.367579 - Vehicle ID: 77, Speed: 5460.74
+2024-06-25 10:34:18.367579 - Vehicle ID: 78, Speed: 2850.63
+2024-06-25 10:34:18.693280 - Vehicle ID: 79, Speed: 2612.76
+2024-06-25 10:34:19.022882 - Vehicle ID: 80, Speed: 5370.00
+2024-06-25 10:34:19.023882 - Vehicle ID: 81, Speed: 2851.42
+2024-06-25 10:34:19.365173 - Vehicle ID: 82, Speed: 2521.61
+2024-06-25 10:34:19.675101 - Vehicle ID: 83, Speed: 2522.86
+2024-06-25 10:34:19.982439 - Vehicle ID: 84, Speed: 5430.08
+2024-06-25 10:36:19.613715 - Vehicle ID: 0, Type: person, Speed: 4926.03
+2024-06-25 10:36:19.615080 - Vehicle ID: 1, Type: person, Speed: 647.61
+2024-06-25 10:36:19.615080 - Vehicle ID: 2, Type: person, Speed: 247.39
+2024-06-25 10:36:19.616227 - Vehicle ID: 3, Type: person, Speed: 540.83
+2024-06-25 10:36:20.071858 - Vehicle ID: 4, Type: bus, Speed: 6623.48
+2024-06-25 10:36:20.073391 - Vehicle ID: 5, Type: car, Speed: 3030.59
+2024-06-25 10:36:20.074623 - Vehicle ID: 6, Type: person, Speed: 1440.31
+2024-06-25 10:36:20.074623 - Vehicle ID: 7, Type: person, Speed: 241.87
+2024-06-25 10:36:20.075900 - Vehicle ID: 8, Type: person, Speed: 6495.61
+2024-06-25 10:36:20.527565 - Vehicle ID: 9, Type: person, Speed: 5114.63
+2024-06-25 10:36:20.530406 - Vehicle ID: 10, Type: person, Speed: 878.24
+2024-06-25 10:36:20.531411 - Vehicle ID: 11, Type: person, Speed: 690.00
+2024-06-25 10:36:20.913629 - Vehicle ID: 12, Type: person, Speed: 5169.24
+2024-06-25 10:36:20.914897 - Vehicle ID: 13, Type: car, Speed: 364.97
+2024-06-25 10:36:20.916118 - Vehicle ID: 14, Type: person, Speed: 994.08
+2024-06-25 10:36:20.916118 - Vehicle ID: 15, Type: person, Speed: 660.68
+2024-06-25 10:36:21.326470 - Vehicle ID: 16, Type: person, Speed: 5169.24
+2024-06-25 10:36:21.327757 - Vehicle ID: 17, Type: person, Speed: 997.25
+2024-06-25 10:36:21.327757 - Vehicle ID: 18, Type: person, Speed: 660.00
+2024-06-25 10:36:21.705497 - Vehicle ID: 19, Type: person, Speed: 5377.03
+2024-06-25 10:36:21.706911 - Vehicle ID: 20, Type: car, Speed: 1562.59
+2024-06-25 10:36:21.707914 - Vehicle ID: 21, Type: person, Speed: 451.00
+2024-06-25 10:36:22.112978 - Vehicle ID: 22, Type: bus, Speed: 391.15
+2024-06-25 10:36:22.113537 - Vehicle ID: 23, Type: car, Speed: 2358.01
+2024-06-25 10:36:22.114670 - Vehicle ID: 24, Type: person, Speed: 967.47
+2024-06-25 10:36:22.114670 - Vehicle ID: 25, Type: person, Speed: 660.00
+2024-06-25 10:36:22.531544 - Vehicle ID: 26, Type: person, Speed: 5649.65
+2024-06-25 10:36:22.532547 - Vehicle ID: 27, Type: car, Speed: 458.91
+2024-06-25 10:36:22.532547 - Vehicle ID: 28, Type: person, Speed: 1001.30
+2024-06-25 10:36:22.533545 - Vehicle ID: 29, Type: person, Speed: 600.00
+2024-06-25 10:36:23.494019 - Vehicle ID: 30, Type: person, Speed: 5818.22
+2024-06-25 10:36:23.495153 - Vehicle ID: 31, Type: car, Speed: 1845.67
+2024-06-25 10:36:23.496314 - Vehicle ID: 32, Type: person, Speed: 543.32
+2024-06-25 10:36:23.496314 - Vehicle ID: 33, Type: person, Speed: 7622.13
+2024-06-25 10:36:24.001184 - Vehicle ID: 34, Type: person, Speed: 5951.58
+2024-06-25 10:36:24.002666 - Vehicle ID: 35, Type: car, Speed: 465.73
+2024-06-25 10:36:24.002666 - Vehicle ID: 36, Type: person, Speed: 1030.97
+2024-06-25 10:36:24.002666 - Vehicle ID: 37, Type: person, Speed: 600.75
+2024-06-25 10:36:24.354056 - Vehicle ID: 38, Type: person, Speed: 6128.52
+2024-06-25 10:36:24.356302 - Vehicle ID: 39, Type: car, Speed: 488.36
+2024-06-25 10:36:24.356302 - Vehicle ID: 40, Type: person, Speed: 742.16
+2024-06-25 10:36:24.356302 - Vehicle ID: 41, Type: person, Speed: 540.83
+2024-06-25 10:36:24.661285 - Vehicle ID: 42, Type: bus, Speed: 424.26
+2024-06-25 10:36:24.661285 - Vehicle ID: 43, Type: car, Speed: 2900.24
+2024-06-25 10:36:24.666643 - Vehicle ID: 44, Type: car, Speed: 1351.33
+2024-06-25 10:36:24.666643 - Vehicle ID: 45, Type: person, Speed: 1530.00
+2024-06-25 10:36:24.667645 - Vehicle ID: 46, Type: person, Speed: 540.83
+2024-06-25 10:36:25.011016 - Vehicle ID: 47, Type: person, Speed: 6394.58
+2024-06-25 10:36:25.012185 - Vehicle ID: 48, Type: car, Speed: 494.77
+2024-06-25 10:36:25.012185 - Vehicle ID: 49, Type: person, Speed: 713.09
+2024-06-25 10:36:25.013539 - Vehicle ID: 50, Type: person, Speed: 570.79
+2024-06-25 10:36:25.328290 - Vehicle ID: 51, Type: bus, Speed: 465.73
+2024-06-25 10:36:25.332416 - Vehicle ID: 52, Type: car, Speed: 3156.28
+2024-06-25 10:36:25.332416 - Vehicle ID: 53, Type: car, Speed: 1320.34
+2024-06-25 10:36:25.333439 - Vehicle ID: 54, Type: person, Speed: 2160.21
+2024-06-25 10:36:25.674390 - Vehicle ID: 55, Type: bus, Speed: 523.93
+2024-06-25 10:36:25.677205 - Vehicle ID: 56, Type: car, Speed: 3258.01
+2024-06-25 10:36:25.678228 - Vehicle ID: 57, Type: person, Speed: 647.61
+2024-06-25 10:36:25.678228 - Vehicle ID: 58, Type: person, Speed: 630.71
+2024-06-25 10:36:25.991373 - Vehicle ID: 59, Type: bus, Speed: 547.45
+2024-06-25 10:36:25.993353 - Vehicle ID: 60, Type: car, Speed: 3276.05
+2024-06-25 10:36:25.993353 - Vehicle ID: 61, Type: person, Speed: 953.41
+2024-06-25 10:36:25.994392 - Vehicle ID: 62, Type: person, Speed: 540.00
+2024-06-25 10:36:26.335050 - Vehicle ID: 63, Type: person, Speed: 6793.53
+2024-06-25 10:36:26.336051 - Vehicle ID: 64, Type: car, Speed: 494.77
+2024-06-25 10:36:26.336051 - Vehicle ID: 65, Type: person, Speed: 647.61
+2024-06-25 10:36:26.337051 - Vehicle ID: 66, Type: person, Speed: 606.71
+2024-06-25 10:36:26.640640 - Vehicle ID: 67, Type: bus, Speed: 547.45
+2024-06-25 10:36:26.641647 - Vehicle ID: 68, Type: car, Speed: 3478.06
+2024-06-25 10:36:26.641647 - Vehicle ID: 69, Type: car, Speed: 1382.93
+2024-06-25 10:36:26.642652 - Vehicle ID: 70, Type: person, Speed: 1710.26
+2024-06-25 10:36:26.642652 - Vehicle ID: 71, Type: person, Speed: 570.00
+2024-06-25 10:36:26.952998 - Vehicle ID: 72, Type: person, Speed: 6908.08
+2024-06-25 10:36:26.952998 - Vehicle ID: 73, Type: car, Speed: 474.34
+2024-06-25 10:36:26.954001 - Vehicle ID: 74, Type: person, Speed: 606.71
+2024-06-25 10:36:26.954001 - Vehicle ID: 75, Type: person, Speed: 480.00
+2024-06-25 10:36:27.264548 - Vehicle ID: 76, Type: person, Speed: 6985.43
+2024-06-25 10:36:27.264548 - Vehicle ID: 77, Type: car, Speed: 502.89
+2024-06-25 10:36:27.265554 - Vehicle ID: 78, Type: car, Speed: 840.54
+2024-06-25 10:36:27.265554 - Vehicle ID: 79, Type: person, Speed: 1682.41
+2024-06-25 10:36:27.266905 - Vehicle ID: 80, Type: person, Speed: 480.94
+2024-06-25 10:36:27.568773 - Vehicle ID: 81, Type: person, Speed: 6997.21
+2024-06-25 10:36:27.568773 - Vehicle ID: 82, Type: car, Speed: 512.64
+2024-06-25 10:36:27.569958 - Vehicle ID: 83, Type: car, Speed: 842.14
+2024-06-25 10:36:27.569958 - Vehicle ID: 84, Type: person, Speed: 1741.03
+2024-06-25 10:36:27.569958 - Vehicle ID: 85, Type: person, Speed: 451.00
+2024-06-25 10:36:27.897902 - Vehicle ID: 86, Type: person, Speed: 7112.53
+2024-06-25 10:36:27.897902 - Vehicle ID: 87, Type: car, Speed: 1820.14
+2024-06-25 10:36:27.897902 - Vehicle ID: 88, Type: person, Speed: 1395.89
+2024-06-25 10:36:27.898904 - Vehicle ID: 89, Type: person, Speed: 510.88
+2024-06-25 10:36:28.214168 - Vehicle ID: 90, Type: car, Speed: 9949.96
+2024-06-25 10:36:28.215439 - Vehicle ID: 91, Type: car, Speed: 3639.41
+2024-06-25 10:36:28.215439 - Vehicle ID: 92, Type: car, Speed: 1353.00
+2024-06-25 10:36:28.511861 - Vehicle ID: 93, Type: bus, Speed: 1158.02
+2024-06-25 10:36:28.516233 - Vehicle ID: 94, Type: person, Speed: 16941.50
+2024-06-25 10:36:28.516233 - Vehicle ID: 95, Type: car, Speed: 474.34
+2024-06-25 10:36:28.517546 - Vehicle ID: 96, Type: car, Speed: 785.18
+2024-06-25 10:36:28.517546 - Vehicle ID: 97, Type: person, Speed: 1741.03
+2024-06-25 10:36:28.857981 - Vehicle ID: 98, Type: bus, Speed: 603.74
+2024-06-25 10:36:28.859595 - Vehicle ID: 99, Type: person, Speed: 17033.58
+2024-06-25 10:36:28.859595 - Vehicle ID: 100, Type: car, Speed: 436.81
+2024-06-25 10:36:28.860668 - Vehicle ID: 101, Type: car, Speed: 725.60
+2024-06-25 10:36:28.860668 - Vehicle ID: 102, Type: person, Speed: 1680.27
+2024-06-25 10:36:29.157615 - Vehicle ID: 103, Type: bus, Speed: 570.00
+2024-06-25 10:36:29.166245 - Vehicle ID: 104, Type: person, Speed: 17063.49
+2024-06-25 10:36:29.166245 - Vehicle ID: 105, Type: car, Speed: 436.81
+2024-06-25 10:36:29.167286 - Vehicle ID: 106, Type: car, Speed: 755.38
+2024-06-25 10:36:29.167286 - Vehicle ID: 107, Type: person, Speed: 1741.03
+2024-06-25 10:36:29.167286 - Vehicle ID: 108, Type: person, Speed: 331.36
+2024-06-25 10:36:29.465959 - Vehicle ID: 109, Type: car, Speed: 9948.11
+2024-06-25 10:36:29.467981 - Vehicle ID: 110, Type: car, Speed: 3891.34
+2024-06-25 10:36:29.467981 - Vehicle ID: 111, Type: car, Speed: 1417.96
+2024-06-25 10:36:29.467981 - Vehicle ID: 112, Type: person, Speed: 1239.11
+2024-06-25 10:36:29.469457 - Vehicle ID: 113, Type: person, Speed: 660.68
+2024-06-25 10:36:29.796185 - Vehicle ID: 114, Type: person, Speed: 17300.43
+2024-06-25 10:36:29.798978 - Vehicle ID: 115, Type: car, Speed: 436.81
+2024-06-25 10:36:29.798978 - Vehicle ID: 116, Type: person, Speed: 465.73
+2024-06-25 10:36:30.138922 - Vehicle ID: 117, Type: bus, Speed: 1065.32
+2024-06-25 10:36:30.142806 - Vehicle ID: 118, Type: person, Speed: 17300.43
+2024-06-25 10:36:30.142806 - Vehicle ID: 119, Type: car, Speed: 429.53
+2024-06-25 10:36:30.143952 - Vehicle ID: 120, Type: person, Speed: 456.95
+2024-06-25 10:36:30.475831 - Vehicle ID: 121, Type: bus, Speed: 726.22
+2024-06-25 10:36:30.475831 - Vehicle ID: 122, Type: person, Speed: 17335.02
+2024-06-25 10:36:30.476838 - Vehicle ID: 123, Type: car, Speed: 408.04
+2024-06-25 10:36:30.476838 - Vehicle ID: 124, Type: car, Speed: 750.60
+2024-06-25 10:36:30.807144 - Vehicle ID: 125, Type: bus, Speed: 2372.28
+2024-06-25 10:36:30.807144 - Vehicle ID: 126, Type: person, Speed: 17392.47
+2024-06-25 10:36:30.808144 - Vehicle ID: 127, Type: person, Speed: 7021.03
+2024-06-25 10:36:30.808144 - Vehicle ID: 128, Type: car, Speed: 1415.10
+2024-06-25 10:36:30.809144 - Vehicle ID: 129, Type: person, Speed: 3787.61
+2024-06-25 10:36:30.809144 - Vehicle ID: 130, Type: person, Speed: 752.40
+2024-06-25 10:36:31.165056 - Vehicle ID: 131, Type: car, Speed: 9924.02
+2024-06-25 10:36:31.166057 - Vehicle ID: 132, Type: car, Speed: 4226.70
+2024-06-25 10:36:31.166057 - Vehicle ID: 133, Type: car, Speed: 1353.00
+2024-06-25 10:36:31.167057 - Vehicle ID: 134, Type: person, Speed: 3755.88
+2024-06-25 10:36:31.487513 - Vehicle ID: 135, Type: bus, Speed: 591.69
+2024-06-25 10:36:31.487513 - Vehicle ID: 136, Type: person, Speed: 17599.57
+2024-06-25 10:36:31.488514 - Vehicle ID: 137, Type: person, Speed: 7020.58
+2024-06-25 10:36:31.488514 - Vehicle ID: 138, Type: car, Speed: 1353.00
+2024-06-25 10:36:31.489515 - Vehicle ID: 139, Type: person, Speed: 2670.00
+2024-06-25 10:36:31.834146 - Vehicle ID: 140, Type: car, Speed: 9924.02
+2024-06-25 10:36:31.834146 - Vehicle ID: 141, Type: car, Speed: 4310.20
+2024-06-25 10:36:31.835147 - Vehicle ID: 142, Type: car, Speed: 6483.40
+2024-06-25 10:36:31.835147 - Vehicle ID: 143, Type: person, Speed: 402.49
+2024-06-25 10:36:32.223562 - Vehicle ID: 144, Type: bus, Speed: 684.11
+2024-06-25 10:36:32.223562 - Vehicle ID: 145, Type: car, Speed: 4356.93
+2024-06-25 10:36:32.224563 - Vehicle ID: 146, Type: car, Speed: 6512.49
+2024-06-25 10:36:32.224563 - Vehicle ID: 147, Type: car, Speed: 3421.18
+2024-06-25 10:36:32.224563 - Vehicle ID: 148, Type: person, Speed: 2160.21
+2024-06-25 10:36:32.591847 - Vehicle ID: 149, Type: bus, Speed: 742.77
+2024-06-25 10:36:32.592950 - Vehicle ID: 150, Type: person, Speed: 17742.69
+2024-06-25 10:36:32.592950 - Vehicle ID: 151, Type: car, Speed: 445.98
+2024-06-25 10:36:32.593953 - Vehicle ID: 152, Type: car, Speed: 3660.49
+2024-06-25 10:36:32.593953 - Vehicle ID: 153, Type: person, Speed: 690.65
+2024-06-25 10:36:32.595102 - Vehicle ID: 154, Type: person, Speed: 660.68
+2024-06-25 10:36:32.959787 - Vehicle ID: 155, Type: person, Speed: 8414.77
+2024-06-25 10:36:32.962826 - Vehicle ID: 156, Type: car, Speed: 445.98
+2024-06-25 10:36:32.962826 - Vehicle ID: 157, Type: car, Speed: 3631.12
+2024-06-25 10:36:32.963854 - Vehicle ID: 158, Type: person, Speed: 2910.15
+2024-06-25 10:36:33.321911 - Vehicle ID: 159, Type: bus, Speed: 524.79
+2024-06-25 10:36:33.324592 - Vehicle ID: 160, Type: person, Speed: 17832.47
+2024-06-25 10:36:33.324592 - Vehicle ID: 161, Type: car, Speed: 5252.14
+2024-06-25 10:36:33.325664 - Vehicle ID: 162, Type: person, Speed: 720.00
+2024-06-25 10:36:33.325664 - Vehicle ID: 163, Type: person, Speed: 692.60
+2024-06-25 10:36:33.654976 - Vehicle ID: 164, Type: car, Speed: 9611.99
+2024-06-25 10:36:33.656182 - Vehicle ID: 165, Type: car, Speed: 4613.08
+2024-06-25 10:36:33.656182 - Vehicle ID: 166, Type: car, Speed: 3661.11
+2024-06-25 10:36:33.657185 - Vehicle ID: 167, Type: person, Speed: 3060.15
+2024-06-25 10:36:33.993126 - Vehicle ID: 168, Type: bus, Speed: 553.17
+2024-06-25 10:36:34.000238 - Vehicle ID: 169, Type: person, Speed: 17924.34
+2024-06-25 10:36:34.000238 - Vehicle ID: 170, Type: car, Speed: 1600.16
+2024-06-25 10:36:34.001709 - Vehicle ID: 171, Type: car, Speed: 2701.50
+2024-06-25 10:36:34.378588 - Vehicle ID: 172, Type: bus, Speed: 3063.23
+2024-06-25 10:36:34.379020 - Vehicle ID: 173, Type: person, Speed: 17952.19
+2024-06-25 10:36:34.379020 - Vehicle ID: 174, Type: person, Speed: 6901.04
+2024-06-25 10:36:34.379020 - Vehicle ID: 175, Type: car, Speed: 960.47
+2024-06-25 10:36:34.380526 - Vehicle ID: 176, Type: person, Speed: 4599.79
+2024-06-25 10:36:34.749686 - Vehicle ID: 177, Type: bus, Speed: 566.04
+2024-06-25 10:36:34.750897 - Vehicle ID: 178, Type: person, Speed: 17954.27
+2024-06-25 10:36:34.750897 - Vehicle ID: 179, Type: person, Speed: 6931.04
+2024-06-25 10:36:34.750897 - Vehicle ID: 180, Type: car, Speed: 960.47
+2024-06-25 10:36:34.752349 - Vehicle ID: 181, Type: person, Speed: 4566.31
+2024-06-25 10:36:35.106054 - Vehicle ID: 182, Type: car, Speed: 9913.13
+2024-06-25 10:36:35.109370 - Vehicle ID: 183, Type: car, Speed: 4685.09
+2024-06-25 10:36:35.109370 - Vehicle ID: 184, Type: car, Speed: 5318.47
+2024-06-25 10:36:35.110395 - Vehicle ID: 185, Type: car, Speed: 2730.66
+2024-06-25 10:36:35.445529 - Vehicle ID: 186, Type: bus, Speed: 1142.37
+2024-06-25 10:36:35.451248 - Vehicle ID: 187, Type: person, Speed: 18050.55
+2024-06-25 10:36:35.451248 - Vehicle ID: 188, Type: car, Speed: 2586.27
+2024-06-25 10:36:35.826597 - Vehicle ID: 189, Type: bus, Speed: 1693.07
+2024-06-25 10:36:35.827144 - Vehicle ID: 190, Type: car, Speed: 4685.09
+2024-06-25 10:36:35.827144 - Vehicle ID: 191, Type: car, Speed: 4326.66
+2024-06-25 10:36:36.195861 - Vehicle ID: 192, Type: bus, Speed: 1716.57
+2024-06-25 10:36:36.197730 - Vehicle ID: 193, Type: car, Speed: 4775.28
+2024-06-25 10:36:36.197730 - Vehicle ID: 194, Type: car, Speed: 2820.64
+2024-06-25 10:36:36.198976 - Vehicle ID: 195, Type: person, Speed: 4290.10
+2024-06-25 10:36:36.559246 - Vehicle ID: 196, Type: person, Speed: 8460.85
+2024-06-25 10:36:36.559246 - Vehicle ID: 197, Type: car, Speed: 2551.59
+2024-06-25 10:36:36.559246 - Vehicle ID: 198, Type: person, Speed: 4687.78
+2024-06-25 10:36:36.879712 - Vehicle ID: 199, Type: person, Speed: 8502.71
+2024-06-25 10:36:36.880715 - Vehicle ID: 200, Type: car, Speed: 2521.61
+2024-06-25 10:36:37.222400 - Vehicle ID: 201, Type: bus, Speed: 3033.56
+2024-06-25 10:36:37.223405 - Vehicle ID: 202, Type: car, Speed: 4924.11
+2024-06-25 10:36:37.223405 - Vehicle ID: 203, Type: car, Speed: 2910.62
+2024-06-25 10:36:37.224404 - Vehicle ID: 204, Type: person, Speed: 4380.10
+2024-06-25 10:36:37.576098 - Vehicle ID: 205, Type: person, Speed: 8532.03
+2024-06-25 10:36:37.576098 - Vehicle ID: 206, Type: car, Speed: 2491.63
+2024-06-25 10:36:37.577204 - Vehicle ID: 207, Type: person, Speed: 3767.24
+2024-06-25 10:36:37.915182 - Vehicle ID: 208, Type: person, Speed: 8584.46
+2024-06-25 10:36:37.916186 - Vehicle ID: 209, Type: car, Speed: 2491.63
+2024-06-25 10:36:38.230374 - Vehicle ID: 210, Type: bus, Speed: 3003.90
+2024-06-25 10:36:38.231493 - Vehicle ID: 211, Type: car, Speed: 5037.59
+2024-06-25 10:36:38.231493 - Vehicle ID: 212, Type: person, Speed: 1815.93
+2024-06-25 10:36:38.560775 - Vehicle ID: 213, Type: car, Speed: 9944.67
+2024-06-25 10:36:38.563403 - Vehicle ID: 214, Type: car, Speed: 5047.32
+2024-06-25 10:36:38.563403 - Vehicle ID: 215, Type: person, Speed: 3574.53
+2024-06-25 10:36:38.564712 - Vehicle ID: 216, Type: person, Speed: 3770.23
+2024-06-25 10:36:38.858212 - Vehicle ID: 217, Type: person, Speed: 8714.32
+2024-06-25 10:36:38.865442 - Vehicle ID: 218, Type: car, Speed: 2521.61
+2024-06-25 10:36:38.865442 - Vehicle ID: 219, Type: person, Speed: 1800.25
+2024-06-25 10:36:39.165316 - Vehicle ID: 220, Type: bus, Speed: 7010.51
+2024-06-25 10:36:39.171708 - Vehicle ID: 221, Type: person, Speed: 6448.40
+2024-06-25 10:36:39.171708 - Vehicle ID: 222, Type: car, Speed: 2490.72
+2024-06-25 10:36:39.172980 - Vehicle ID: 223, Type: person, Speed: 1800.25
+2024-06-25 10:36:39.524837 - Vehicle ID: 224, Type: bus, Speed: 7014.16
+2024-06-25 10:36:39.528407 - Vehicle ID: 225, Type: person, Speed: 6477.85
+2024-06-25 10:36:39.528407 - Vehicle ID: 226, Type: car, Speed: 2461.65
+2024-06-25 10:36:39.528407 - Vehicle ID: 227, Type: person, Speed: 1801.00
+2024-06-25 10:36:39.859414 - Vehicle ID: 228, Type: bus, Speed: 7040.29
+2024-06-25 10:36:39.861954 - Vehicle ID: 229, Type: car, Speed: 2521.61
+2024-06-25 10:36:39.861954 - Vehicle ID: 230, Type: person, Speed: 6604.36
+2024-06-25 10:36:40.161028 - Vehicle ID: 231, Type: bus, Speed: 3063.23
+2024-06-25 10:36:40.162326 - Vehicle ID: 232, Type: car, Speed: 1542.60
+2024-06-25 10:36:40.162326 - Vehicle ID: 233, Type: car, Speed: 2882.50
+2024-06-25 10:36:40.163344 - Vehicle ID: 234, Type: person, Speed: 1740.26
+2024-06-25 10:36:40.530052 - Vehicle ID: 235, Type: car, Speed: 3634.46
+2024-06-25 10:36:40.532045 - Vehicle ID: 236, Type: car, Speed: 2881.41
+2024-06-25 10:36:40.532045 - Vehicle ID: 237, Type: person, Speed: 1771.02
+2024-06-25 10:36:40.852562 - Vehicle ID: 238, Type: person, Speed: 2190.21
+2024-06-25 10:36:40.853650 - Vehicle ID: 239, Type: car, Speed: 2462.93
+2024-06-25 10:36:40.854700 - Vehicle ID: 240, Type: person, Speed: 6545.57
+2024-06-25 10:36:40.854700 - Vehicle ID: 241, Type: person, Speed: 4410.00
+2024-06-25 10:36:41.187118 - Vehicle ID: 242, Type: bus, Speed: 3300.68
+2024-06-25 10:36:41.193910 - Vehicle ID: 243, Type: car, Speed: 1520.86
+2024-06-25 10:36:41.194508 - Vehicle ID: 244, Type: person, Speed: 3603.12
+2024-06-25 10:36:41.194508 - Vehicle ID: 245, Type: person, Speed: 4410.00
+2024-06-25 10:36:41.559833 - Vehicle ID: 246, Type: person, Speed: 3090.15
+2024-06-25 10:36:41.560798 - Vehicle ID: 247, Type: car, Speed: 2491.63
+2024-06-25 10:36:41.560798 - Vehicle ID: 248, Type: person, Speed: 1801.00
+2024-06-25 10:36:41.561899 - Vehicle ID: 249, Type: person, Speed: 1866.04
+2024-06-25 10:36:41.874716 - Vehicle ID: 250, Type: car, Speed: 3603.12
+2024-06-25 10:36:41.877758 - Vehicle ID: 251, Type: person, Speed: 3634.46
+2024-06-25 10:36:42.221020 - Vehicle ID: 252, Type: bus, Speed: 3038.16
+2024-06-25 10:36:42.224026 - Vehicle ID: 253, Type: person, Speed: 1120.89
+2024-06-25 10:36:42.224026 - Vehicle ID: 254, Type: person, Speed: 6933.18
+2024-06-25 10:36:42.576139 - Vehicle ID: 255, Type: car, Speed: 3603.12
+2024-06-25 10:36:42.576139 - Vehicle ID: 256, Type: person, Speed: 1740.00
+2024-06-25 10:36:42.577293 - Vehicle ID: 257, Type: person, Speed: 5794.97
+2024-06-25 10:36:42.916855 - Vehicle ID: 258, Type: car, Speed: 3633.10
+2024-06-25 10:36:42.916855 - Vehicle ID: 259, Type: car, Speed: 3000.60
+2024-06-25 10:36:43.257406 - Vehicle ID: 260, Type: bus, Speed: 4365.70
+2024-06-25 10:36:43.258422 - Vehicle ID: 261, Type: person, Speed: 1113.24
+2024-06-25 10:36:43.258422 - Vehicle ID: 262, Type: car, Speed: 1201.50
+2024-06-25 10:36:43.616818 - Vehicle ID: 263, Type: bus, Speed: 4543.89
+2024-06-25 10:36:43.616818 - Vehicle ID: 264, Type: car, Speed: 5520.00
+2024-06-25 10:36:43.617822 - Vehicle ID: 265, Type: person, Speed: 1740.26
+2024-06-25 10:36:43.617822 - Vehicle ID: 266, Type: person, Speed: 6518.36
+2024-06-25 10:36:43.971552 - Vehicle ID: 267, Type: car, Speed: 3543.18
+2024-06-25 10:36:43.971552 - Vehicle ID: 268, Type: person, Speed: 6636.78
+2024-06-25 10:36:43.971552 - Vehicle ID: 269, Type: car, Speed: 1203.37
+2024-06-25 10:36:44.324873 - Vehicle ID: 270, Type: bus, Speed: 5053.29
+2024-06-25 10:36:44.326171 - Vehicle ID: 271, Type: car, Speed: 5610.00
+2024-06-25 10:36:44.326171 - Vehicle ID: 272, Type: person, Speed: 1770.00
+2024-06-25 10:36:44.326171 - Vehicle ID: 273, Type: person, Speed: 5048.92
+2024-06-25 10:36:44.658584 - Vehicle ID: 274, Type: bus, Speed: 5346.40
+2024-06-25 10:36:44.658584 - Vehicle ID: 275, Type: car, Speed: 5580.08
+2024-06-25 10:36:44.659586 - Vehicle ID: 276, Type: car, Speed: 3000.60
+2024-06-25 10:36:44.659586 - Vehicle ID: 277, Type: person, Speed: 2077.81
+2024-06-25 10:36:45.009974 - Vehicle ID: 278, Type: car, Speed: 3960.00
+2024-06-25 10:36:45.011001 - Vehicle ID: 279, Type: car, Speed: 5640.08
+2024-06-25 10:36:45.011001 - Vehicle ID: 280, Type: car, Speed: 3030.59
+2024-06-25 10:36:45.012025 - Vehicle ID: 281, Type: person, Speed: 2075.43
+2024-06-25 10:36:45.322366 - Vehicle ID: 282, Type: car, Speed: 3546.22
+2024-06-25 10:36:45.322366 - Vehicle ID: 283, Type: person, Speed: 6666.75
+2024-06-25 10:36:45.322366 - Vehicle ID: 284, Type: person, Speed: 7635.10
