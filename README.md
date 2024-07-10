@@ -60,7 +60,7 @@ Here is an example of SpeedSense in action:
 
 ### Traffic Monitoring
 
-![Traffic Monitoring]([path_to_image/traffic_example.png](https://github.com/ayushi465/Real-Time-Speed-Estimation/blob/main/identification_traffic.png))
+![Traffic Monitoring]((https://github.com/ayushi465/Real-Time-Speed-Estimation/blob/main/identification_traffic.png))
 
 
 ## Contributing
