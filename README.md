@@ -1,7 +1,5 @@
 # SpeedSense: Real-Time Speed Estimation
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## Overview
 
 **SpeedSense** is a real-time speed estimation project designed to accurately calculate the speed of moving objects using video footage. Leveraging computer vision techniques and machine learning algorithms, SpeedSense can be used in various applications such as traffic monitoring, sports analytics, and surveillance systems.
